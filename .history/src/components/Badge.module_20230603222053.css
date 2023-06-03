@@ -1,0 +1,9 @@
+.badge {
+  padding: .5em 1em;
+  border: .1em so;
+  background-color: blue;
+}
+
+.filled {
+  color: tomato;
+}

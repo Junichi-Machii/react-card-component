@@ -1,0 +1,10 @@
+.badge {
+  padding: .5em 1em;
+  border: .1em solid hsl(var(--accent2));
+  background-color: hsl;
+  background-color: blue;
+}
+
+.filled {
+  color: tomato;
+}
