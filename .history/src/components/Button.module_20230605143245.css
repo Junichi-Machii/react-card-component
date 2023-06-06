@@ -1,0 +1,19 @@
+.btn {
+  --type: transparent;
+  --fill: transparent;
+  display: flex;
+  align-items: center;
+  
+  padding: .5em 1em;
+  font-weight: 500;
+  border: .1em solid hsl(var(--accent2));
+  background-color: hsl(var(--bkg));
+  color: hsl(var(--accent2));
+  border-radius: var(--round-sm);
+  background-color: hsl(var(--bkg));
+}
+
+.filled {
+  background-color: hsl(var(--accent2));
+  color: hsl(var(--bkg));
+}
