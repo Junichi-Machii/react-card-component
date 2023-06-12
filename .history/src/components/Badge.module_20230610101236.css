@@ -1,0 +1,23 @@
+.badge {
+  display: flex;
+  align-items: center;
+      height: var(--fs-300);
+      gap: var(--space-sm);
+  padding: .5em 1em;
+  font-weight: 500;
+  border: .1em solid hsl(var(--accent2));
+  background-color: hsl(var(--bkg));
+  color: hsl(var(--accent2));
+  border-radius: var(--round-sm);
+  background-color: hsl(var(--bkg));
+  max-width: max-content
+}
+
+.btn svg {
+  height: var(--fs-300);
+}
+
+.filled {
+  background-color: hsl(var(--accent2));
+  color: hsl(var(--bkg));
+}

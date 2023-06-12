@@ -1,0 +1,11 @@
+.card {
+flex: 1 1 300px;
+position: relative;
+background-color: hsl(var(--bkg));
+}
+
+ .indicator {
+  width: 100%;
+  max-width: 100%;
+  
+ }
