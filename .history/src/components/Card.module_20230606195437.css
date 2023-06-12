@@ -1,0 +1,14 @@
+.card {
+flex: 1 1 300px;
+position: relative;
+background-color: hsl(var(--bkg));
+box-shadow: 2px 2px 40px hsl(var(--muted) / );
+}
+
+ .indicator {
+  width: 100%;
+  max-width: 100%;
+  aspect-ratio: 16/12;
+  object-fit: cover;
+  border-radius: var(--round-md);
+ }

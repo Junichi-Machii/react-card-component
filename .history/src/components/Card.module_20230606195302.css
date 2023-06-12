@@ -1,0 +1,12 @@
+.card {
+flex: 1 1 300px;
+position: relative;
+background-color: hsl(var(--bkg));
+}
+
+ .indicator {
+  width: 100%;
+  max-width: 100%;
+  aspect-ratio: 16/12;
+  object-fit: cov;
+ }
