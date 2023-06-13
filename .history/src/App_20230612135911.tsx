@@ -1,6 +1,7 @@
 
 import HomeIcon from "./assets/favicon.png";
 import {
+  SignalIcon,
   ArchiveBoxIcon,
   CursorArrowRaysIcon,
   HandThumbUpIcon,

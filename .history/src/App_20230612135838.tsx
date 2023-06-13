@@ -1,6 +1,8 @@
-
+import Badge from "./components/Badge";
 import HomeIcon from "./assets/favicon.png";
+import Button from "./components/Button";
 import {
+  SignalIcon,
   ArchiveBoxIcon,
   CursorArrowRaysIcon,
   HandThumbUpIcon,
